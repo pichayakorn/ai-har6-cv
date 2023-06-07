@@ -354,6 +354,10 @@ filename = now.strftime("y%m%d") + "_har6.h5"
 model.save(filename)
 ```
 
+## Prediction
+
+Using your own model from previous section for prediction steps.
+
 ## License
 
 MIT license
